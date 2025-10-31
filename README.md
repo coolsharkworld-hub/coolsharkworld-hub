@@ -1,117 +1,165 @@
-<h1 align="center">🦈 Welcome to CoolSharkWorld 🌐</h1>
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=550&lines=Senior+AI+Engineer;Full+Stack+Architect;Blockchain+Innovator;Cloud+Infrastructure+Specialist;Digital+Ecosystem+Architect" alt="Typing SVG" />
-  </a>
-</h3>
+<!-- ───────────────────────────────────────────────────────────── -->
+<!-- 🦈 COOLSHARKWORLD HUB — FUTURISTIC GITHUB PROFILE README -->
+<!-- ───────────────────────────────────────────────────────────── -->
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=4000&pause=800&color=00E7FF&center=true&vCenter=true&width=700&lines=🦈+CoolSharkWorld+Hub;AI+Engineer+|+Full-Stack+Architect;Cloud+|+Blockchain+|+3D+Innovation" alt="Typing intro"/>
+</h1>
 
-<h3 align="center">🚀 Senior Software Engineer | AI & Cloud Architect | Blockchain Specialist</h3>
 <p align="center">
-  <b>Empowering innovation through intelligent systems and scalable cloud architecture.</b>
+  <img src="https://img.shields.io/badge/Status-🚀%20Building%20Next%20Gen%20AI%20Systems-00E7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Innovation%20Level-Over%209000🔥-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 About Me
-
-I'm **Charles Bernett**, aka **AI-CoolLion 🦁**, a seasoned **Senior Software Engineer** and **AI Architect** with over a decade of experience.  
-My focus is on crafting **intelligent, high-performance, and scalable digital ecosystems** that bridge AI, full-stack, and blockchain technologies.
-
-> *"Technology is the canvas — innovation is the art."*
+<h3 align="center">⚡ AI Engineer | Full-Stack Developer | Cloud Architect ⚡</h3>
+<p align="center"><b>"Crafting futuristic systems where AI meets innovation."</b></p>
 
 ---
 
-## 🧩 Architecture & Design Focus
+## 🧭 About Me  
 
-Microservices • Event-Driven Systems • Cloud-Native • Automation • MLOps • Serverless Systems  
+🚀 I'm **CoolShark**, a passionate **AI Engineer** and **Full-Stack Architect** transforming complex systems into intelligent, scalable ecosystems.  
+💡 Deeply engaged in **machine learning**, **AI infrastructure**, and **cloud-native architectures**.  
+🎯 My mission: fuse **AI**, **blockchain**, and **3D innovation** into seamless digital experiences.
+
+---
+
+## 🧠 Tech Stack Dashboard — *Neon 3D Edition*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,terraform,nginx" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=4000&pause=800&color=00E7FF&center=true&vCenter=true&width=600&lines=⚙️+AI+Engineer+|+Full+Stack+Architect;☁️+Cloud+|+Blockchain+|+3D+Innovation" alt="Typing intro"/>
 </p>
-
----
-
-## 💻 Programming & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,go,rust,solidity" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nodejs,express,django,fastapi,dotnet,spring" />
-</p>
-
----
-
-## 🤖 AI | ML | Data Science
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Anthropic-Claude-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google-Gemini-blue?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink" />
-  <img src="https://img.shields.io/badge/LlamaIndex-00A3E0?style=for-the-badge&logo=chainlink" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone" />
-  <img src="https://img.shields.io/badge/Transformers-409EFF?style=for-the-badge&logo=huggingface" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow" />
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases" />
-</p>
-
----
-
-## 🛠️ Databases & Cloud Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,dynamodb" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,heroku" />
-</p>
-
----
-
-## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ai-coollion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ai-coollion&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" alt="GitHub Streak" />
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-coollion&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ai-coollion&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies"/>
+
+<details open>
+<summary><b>🪞 Frontend & UI Frameworks</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind,threejs" height="45"/>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,java,spring,dotnet,graphql" height="45"/>
+</details>
+
+<details open>
+<summary><b>🧠 AI / ML / Data Science</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,jupyter" height="45"/><br/><br/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink"/>
+<img src="https://img.shields.io/badge/HuggingFace-Transformers-ffcc00?style=for-the-badge&logo=huggingface"/>
+<img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Claude%20%7C%20Gemini-00E7FF?style=for-the-badge&logo=openai"/>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,jenkins,terraform,nginx,linux" height="45"/>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,supabase" height="45"/>
+</details>
+
+<details open>
+<summary><b>💸 Blockchain & Web3</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=solidity,hardhat,ethereum,web3" height="45"/><br/><br/>
+<img src="https://img.shields.io/badge/NFTs-Enabled-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smart%20Contracts-Audit%20Ready-00E7FF?style=for-the-badge"/>
+</details>
+
 </div>
 
 ---
 
-## 🌟 Highlighted Projects (Coming Soon)
+## 🌌 GitHub Analytics — *Neon Performance Edition*
 
-| 🚀 Project | 🔍 Description | ⚙️ Tech Stack |
-|-------------|----------------|----------------|
-| **AI Vision** | Edge-based real-time visual intelligence using deep neural networks. | Python, OpenCV, TensorFlow |
-| **SharkChain** | Modular blockchain platform for DeFi and NFTs. | Solidity, Hardhat, Node.js |
-| **CoolShark Studio** | AI-driven web suite for creative and 3D image generation. | Next.js, OpenAI, Three.js |
+<div align="center">
+
+<!-- 🧠 Profile Summary -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coolsharkworld-hub&theme=tokyonight" 
+  alt="CoolSharkWorld Summary" 
+  width="95%"/>
+
+<br/><br/>
+
+<!-- 💻 Stats & ⚡ Streak -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=coolsharkworld-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=CoolSharkWorld+Stats&title_color=00E7FF&icon_color=00E7FF&text_color=DDDDDD&bg_color=0D1117" 
+    height="180em" 
+    alt="GitHub Stats"
+    style="margin: 5px;"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=coolsharkworld-hub&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=FF0080&currStreakLabel=00E7FF" 
+    height="180em" 
+    alt="GitHub Streak"
+    style="margin: 5px;"/>
+</p>
+
+<br/>
+
+<!-- 🪄 Activity Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=coolsharkworld-hub&bg_color=0D1117&color=00E7FF&line=FF0080&point=00E7FF&area=true&hide_border=true&radius=10" 
+  width="95%" 
+  alt="CoolSharkWorld Activity Graph"/>
+
+<br/><br/>
+
+<!-- ✨ Trophies -->
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=coolsharkworld-hub&theme=tokyonight&no-bg=true&margin-w=10&margin-h=10&column=6&title_color=00E7FF&no-frame=true" 
+  width="95%" 
+  alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
-## ☁️ DevOps, CI/CD & Monitoring
+## 🧪 Highlight Projects  
+
+| 🚀 Project | 💡 Description | 🧠 Tech Stack |
+|-------------|----------------|---------------|
+| **NeuroEdge AI** | Edge-optimized neural system for IoT & robotics | Python · PyTorch · MQTT |
+| **SharkNet 3D** | AI + WebGL engine for immersive experiences | Three.js · Next.js · OpenAI API |
+| **SmartCloud** | Self-scaling cloud infra & microservice hub | AWS · Terraform · Docker · FastAPI |
+
+---
+
+## 🎨 Design & Innovation  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,terraform" /><br/>
-  <img src="https://img.shields.io/badge/Serverless-Computing-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-Architecture-00E7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus%2FGrafana-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-3D%20UI%20%7C%20Neon%20Style-00E7FF?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Theme-Futuristic%20Cyber%20Grid-purple?style=for-the-badge&logo=adobe"/>
+  <img src="https://img.shields.io/badge/Creative%20AI-Active-brightgreen?style=for-the-badge&logo=openai"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://github.com/coolsharkworld-hub"><img src="https://img.shields.io/badge/GitHub-%40coolsharkworld--hub-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077b5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/coolsharkworld-hub">
+    <img src="https://img.shields.io/badge/GitHub-CoolSharkWorldHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:coolsharkworld@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-00E7FF?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/coolsharkworld">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ If you enjoy my work, star this profile and fuel more innovation at CoolSharkWorld 🦈</h3>
-<h4 align="center">💡 Always exploring the intersection of AI, Cloud, and Creativity.</h4>
+<h3 align="center">⭐ If this profile inspires you, drop a star — it fuels more innovation ⚡</h3>
+<h4 align="center"><i>💡 Always exploring where AI, Cloud, and Imagination collide.</i></h4>
