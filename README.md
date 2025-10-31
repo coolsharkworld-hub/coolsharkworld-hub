@@ -1,164 +1,109 @@
-<h1 align="center">🦈 CoolSharkWorld Hub</h1>
-<p align="center">
-  <b>The innovation universe of Charles Bernett — Senior Software Engineer | Architect | AI & Blockchain Specialist</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=10%2B+Years+of+Professional+Experience;Full-Stack+%7C+AI+%7C+Blockchain+%7C+Cloud;Architecting+Scalable+Digital+Ecosystems;Empowering+Innovation+Through+Technology" alt="Typing Animation" />
-</p>
+<h1 align="center">🦈 Welcome to CoolSharkWorld 🌐</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=550&lines=Senior+AI+Engineer;Full+Stack+Architect;Blockchain+Innovator;Cloud+Infrastructure+Specialist;Digital+Ecosystem+Architect" alt="Typing SVG" />
+  </a>
+</h3>
 
 ---
 
-## 🌍 About Me
-
-Hi there! I'm **Charles Bernett**, a seasoned **Senior Software Engineer** with over a decade of experience designing, architecting, and deploying world-class software.  
-I specialize in **Full-Stack**, **Cloud**, **Blockchain**, and **AI-driven** solutions — always with an eye toward performance, scalability, and innovation.
-
-> “Building the future, one elegant system at a time.”
-
----
-
-## 🧩 Architecture & Design
-
-**Expert in:**  
-Micro-Frontend • Microservices • Serverless • Event-Driven Systems • Cloud-Native Design • Automation Workflows  
-
+<h3 align="center">🚀 Senior Software Engineer | AI & Cloud Architect | Blockchain Specialist</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,githubactions" /><br/>
-  <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Serverless-Computing-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Workflows-success?style=for-the-badge" />
+  <b>Empowering innovation through intelligent systems and scalable cloud architecture.</b>
 </p>
 
 ---
 
-## 💻 Programming Languages
+## 🧠 About Me
 
-JavaScript • TypeScript • C/C++ • C# • Java • Python • Go • Ruby • PHP • Shell/Bash  
+I'm **Charles Bernett**, aka **AI-CoolLion 🦁**, a seasoned **Senior Software Engineer** and **AI Architect** with over a decade of experience.  
+My focus is on crafting **intelligent, high-performance, and scalable digital ecosystems** that bridge AI, full-stack, and blockchain technologies.
+
+> *"Technology is the canvas — innovation is the art."*
+
+---
+
+## 🧩 Architecture & Design Focus
+
+Microservices • Event-Driven Systems • Cloud-Native • Automation • MLOps • Serverless Systems  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,python,go,ruby,php,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,terraform,nginx" />
 </p>
 
 ---
 
-## 🎨 Frontend Development
-
-React • React Native • Angular • Next.js • Vue.js • Flutter • iOS/Android Native  
-Redux Toolkit • Context API • Tailwind CSS • Material UI • GSAP • Gatsby • Figma • Storybook  
+## 💻 Programming & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,flutter,redux,tailwind,materialui,figma,gatsby,swift,kotlin" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,go,rust,solidity" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nodejs,express,django,fastapi,dotnet,spring" />
 </p>
 
 ---
 
-## ⚙️ Backend Development
-
-Node.js • NestJS • Express.js • FastAPI • Flask • Django • Ruby on Rails • GoFiber  
-.NET / .NET Core • GraphQL • REST • Swagger • gRPC  
+## 🤖 AI | ML | Data Science
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,flask,dotnet,graphql,go,ruby" />
+  <img src="https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google-Gemini-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink" />
+  <img src="https://img.shields.io/badge/LlamaIndex-00A3E0?style=for-the-badge&logo=chainlink" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone" />
+  <img src="https://img.shields.io/badge/Transformers-409EFF?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow" />
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases" />
 </p>
 
 ---
 
-## 🗄️ Databases
-
-MySQL • PostgreSQL • MongoDB • ClickHouse • Snowflake • CouchDB • Firebase • Redis  
+## 🛠️ Databases & Cloud Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,dynamodb" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,heroku" />
 </p>
 
 ---
 
-## 🧱 Headless CMS & Messaging
+## 📊 GitHub Analytics
 
-**Headless CMS:** Sanity • Strapi • Contentful  
-**Caching & Messaging:** Redis • Kafka • RabbitMQ • Google Pub/Sub  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ai-coollion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ai-coollion&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" alt="GitHub Streak" />
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-coollion&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ai-coollion&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌟 Highlighted Projects (Coming Soon)
+
+| 🚀 Project | 🔍 Description | ⚙️ Tech Stack |
+|-------------|----------------|----------------|
+| **AI Vision** | Edge-based real-time visual intelligence using deep neural networks. | Python, OpenCV, TensorFlow |
+| **SharkChain** | Modular blockchain platform for DeFi and NFTs. | Solidity, Hardhat, Node.js |
+| **CoolShark Studio** | AI-driven web suite for creative and 3D image generation. | Next.js, OpenAI, Three.js |
+
+---
+
+## ☁️ DevOps, CI/CD & Monitoring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redis" />  
-  <img src="https://img.shields.io/badge/Kafka-Messaging-black?style=flat-square&logo=apachekafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-Queue-orange?style=flat-square&logo=rabbitmq" />
-  <img src="https://img.shields.io/badge/Google%20Pub/Sub-Event--Driven-blue?style=flat-square&logo=googlecloud" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,terraform" /><br/>
+  <img src="https://img.shields.io/badge/Serverless-Computing-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-00E7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Monitoring-Prometheus%2FGrafana-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 💳 Payments & Finance
-
-Stripe • PayPal • QuickBooks • Solana DeFi • Smart Contracts  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://img.shields.io/badge/Stripe-Integration-blue?style=flat-square&logo=stripe" />
-  <img src="https://img.shields.io/badge/PayPal-API-003087?style=flat-square&logo=paypal" />
-  <img src="https://img.shields.io/badge/Solana-DeFi-purple?style=flat-square&logo=solana" />
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-
-AWS • Azure • GCP • DigitalOcean • Docker/Kubernetes  
-CI/CD • GitHub Actions • GitLab • Jenkins • Bitbucket • Nginx/PM2  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,docker,kubernetes,githubactions,gitlab,jenkins,bitbucket,nginx" />
-</p>
-
----
-
-## 🧪 Testing & QA
-
-Jest • Playwright • Cypress • Selenium • Mocha/Chai  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-Testing-red?style=flat-square&logo=jest" />
-  <img src="https://img.shields.io/badge/Cypress-E2E-green?style=flat-square&logo=cypress" />
-  <img src="https://img.shields.io/badge/Selenium-Automation-brightgreen?style=flat-square&logo=selenium" />
-  <img src="https://img.shields.io/badge/Mocha%2FChai-Unit%20Tests-brown?style=flat-square&logo=mocha" />
-</p>
-
----
-
-## 🤖 AI / ML & Generative AI
-
-OpenAI ChatGPT • Anthropic Claude • Google Gemini • TensorFlow Lite • PyTorch • NLP • LLMs  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/OpenAI-API-black?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/Anthropic-Claude-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Google-Gemini-blue?style=flat-square&logo=google" />
-</p>
-
----
-
-## 💻 Systems & Environments
-
-Windows • Linux • macOS • iOS • Android  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,apple,android" />
-</p>
-
----
-
-## 🌟 Featured Projects (Coming Soon)
-
-| Project | Description | Stack |
-|----------|--------------|--------|
-| **AI Vision** | Real-time visual intelligence powered by edge AI and neural networks. | Python, TensorFlow, OpenCV |
-| **SharkChain** | Modular blockchain for DeFi, NFTs, and smart contracts. | Solidity, Hardhat, Node.js |
-| **CoolShark Studio** | Web-based creative suite using AI for image & 3D generation. | Next.js, OpenAI API, Three.js |
-
----
-
-## 📫 Connect With Me
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://github.com/coolsharkworld-hub"><img src="https://img.shields.io/badge/GitHub-%40coolsharkworld--hub-black?style=for-the-badge&logo=github" /></a>
@@ -168,4 +113,5 @@ Windows • Linux • macOS • iOS • Android
 
 ---
 
-<h3 align="center">⭐ If you like my work, please give this repo a star — it fuels more innovation at CoolSharkWorld!</h3>
+<h3 align="center">⭐ If you enjoy my work, star this profile and fuel more innovation at CoolSharkWorld 🦈</h3>
+<h4 align="center">💡 Always exploring the intersection of AI, Cloud, and Creativity.</h4>
