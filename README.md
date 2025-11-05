@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 Tech Stack Dashboard — *Neon 3D Edition*
+## 🧠 Tech Stack*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=4000&pause=800&color=00E7FF&center=true&vCenter=true&width=600&lines=⚙️+AI+Engineer+|+Full+Stack+Architect;☁️+Cloud+|+Blockchain+|+3D+Innovation" alt="Typing intro"/>
